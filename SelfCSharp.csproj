@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>SelfCSharp.Chap03.Practice.Practice3</StartupObject>
+    <StartupObject>SelfCSharp.Chap04.SwitchPre</StartupObject>
   </PropertyGroup>
 
 </Project>
