@@ -5,7 +5,11 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>SelfCSharp.Chap05.Practice.PAdd</StartupObject>
+    <StartupObject>SelfCSharp.Chap05.FileProcess</StartupObject>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="data\SelfCSharp\" />
+  </ItemGroup>
 
 </Project>
