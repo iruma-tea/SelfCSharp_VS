@@ -5,11 +5,16 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>SelfCSharp.Chap05.Practice.Practice4</StartupObject>
+    <StartupObject>SelfCSharp.Chap06.ListForeach</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="data\SelfCSharp\" />
+	  <Folder Include="Chap01\" />
+	  <Folder Include="Chap02\" />
+	  <Folder Include="Chap03\" />
+	  <Folder Include="Chap04\" />
+	  <Folder Include="Chap05\" />
+	  <Folder Include="data\" />
   </ItemGroup>
 
 </Project>
