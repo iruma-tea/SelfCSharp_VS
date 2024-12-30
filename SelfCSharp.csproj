@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>SelfCSharp.Chap06.ListSort</StartupObject>
+    <StartupObject>SelfCSharp.Chap06.practice.Practice3</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
