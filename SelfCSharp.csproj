@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>SelfCSharp.Chap06.practice.Practice3</StartupObject>
+    <StartupObject>SelfCSharp.Chap07.MethodLocal</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
@@ -14,6 +14,7 @@
 	  <Folder Include="Chap03\" />
 	  <Folder Include="Chap04\" />
 	  <Folder Include="Chap05\" />
+	  <Folder Include="Chap06\" />
 	  <Folder Include="data\" />
   </ItemGroup>
 
