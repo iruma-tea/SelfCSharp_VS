@@ -1,17 +1,15 @@
-﻿using System;
-
-namespace SelfCSharp.Chap07.Practice
+﻿namespace SelfCSharp.Chap07.Practice
 {
     internal class Circle
     {
         double radius;
 
-        public Circle(double radius)
+        public Circle(double radius = 1)
         {
             this.radius = radius;
         }
 
-        public Circle() : this(1) { }
+        //public Circle() : this(1) { }
 
         public double GetArea()
         {
